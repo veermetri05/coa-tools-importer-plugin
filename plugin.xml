@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin type="exporter">
+   <name>Coa Tools Importer</name>
+   <importer>
+      <extension>json</extension>
+      <description>COA Tools importer</description>
+      <exec>coa-tools-importer.py</exec>
+   </importer>
+</plugin>
